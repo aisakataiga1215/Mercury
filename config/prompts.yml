@@ -1,0 +1,5 @@
+main_prompt_path: prompts/main_prompt.txt
+listing_prompt_path: prompts/listing_prompt.txt
+review_prompt_path: prompts/review_prompt.txt
+campaign_prompt_path: prompts/campaign_prompt.txt
+daily_report_prompt_path: prompts/daily_report_prompt.txt

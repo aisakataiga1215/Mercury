@@ -1,0 +1,7 @@
+chat_model_name: qwen3-max
+
+workflows:
+  listing: 新品上架优化
+  review: 评价危机管理
+  campaign: 大促活动策划
+  daily_report: 运营日报生成
